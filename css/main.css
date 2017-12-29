@@ -20,7 +20,7 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     letter-spacing: 0.0375em;
     font-family: "Open Sans", sans-serif;
@@ -225,7 +225,7 @@ header .intro-text .intro-heading {
     font-size: 15px;
     font-weight: 300;
     line-height: 25px;
-    margin: 20px 100px 60px 100px;
+    margin: 20px;
 }
 
 /*--------------------
@@ -506,6 +506,7 @@ figure.effect-bubba:hover p {
 .team-image {
     display: inline-block;
 }
+
 .team-item {
     text-align: center;
     background-color: #fff;
@@ -632,6 +633,7 @@ footer p a span {
     margin: 20px 20px;
     color: #2D2D2D;
 }
+
 .modal-body > a {
     margin: 20px;
     font-size: 24px;
@@ -757,9 +759,11 @@ and (max-width: 480px) {
         font-size: 20px;
     }
 }
-#contact {
-    padding: 0;
-}
-#about > div > div:nth-child(2) > div:nth-child(3) > div > h3 {
-    margin-bottom: 13px;
+
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border: none;
 }
