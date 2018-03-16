@@ -260,6 +260,9 @@ header .intro-text .intro-heading {
     margin: 0 2px 4px;
     font-size: 31px;
 }
+#about > div > div:nth-child(2) > div:nth-child(3) > div > h3 {
+    margin-bottom: 13px;
+}
 
 /*--------------------
 4.2. Skills
@@ -554,7 +557,6 @@ section#contact.form-group {
 }
 
 section#contact .form-group input, section#contact .form-group textarea {
-    padding: 15px;
     border: 1px solid #BBBBBB;
     border-radius: 0;
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
@@ -759,11 +761,16 @@ and (max-width: 480px) {
         font-size: 20px;
     }
 }
-
 .well {
-    min-height: 20px;
-    padding: 19px;
-    margin-bottom: 20px;
     background-color: #ffffff;
     border: none;
+}
+.form-horizontal .has-feedback .form-control-feedback {
+    right: 5px;
+    top: 5px;
+    font-size: 24px;
+}
+.shortMessage {
+    font-size: 24px;
+    color: #fff;
 }
