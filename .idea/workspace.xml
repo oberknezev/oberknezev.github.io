@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ba13cc82-06ba-49d3-b433-9286d9d1a6a0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -333,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521421369976</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="cleaning the css">
+      <created>1521423569818</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1521423569818</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107756000" />
+    <option name="totallyTimeSpent" value="107789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="749" height="1047" extended-state="0" />
@@ -398,7 +403,8 @@
     <MESSAGE value="minor css fix" />
     <MESSAGE value="minor changes in index sections(about and services)" />
     <MESSAGE value="minor additions to modals" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor additions to modals" />
+    <MESSAGE value="cleaning the css" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaning the css" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
