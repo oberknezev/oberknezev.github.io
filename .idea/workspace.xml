@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba13cc82-06ba-49d3-b433-9286d9d1a6a0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Ober.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Ober.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/images/demo/author-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/author-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/author-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/author-6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/bg-main.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/office-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/partners-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/partners-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/partners-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/partners-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/partners-5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/partners-6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/partners-7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/portfolio-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/portfolio-2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/portfolio-3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/portfolio-4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/portfolio-5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/portfolio-6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/portfolio-7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/portfolio-8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/demo/portfolio-9.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/js/cbpAnimatedHeader.js" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="93" column="45" lean-forward="true" selection-start-line="93" selection-start-column="45" selection-end-line="93" selection-end-column="45" />
+            <state relative-caret-position="626">
+              <caret line="301" column="14" lean-forward="true" selection-start-line="301" selection-start-column="14" selection-end-line="301" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -122,7 +97,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1103" />
+    <option name="width" value="1082" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -338,17 +313,24 @@
       <option name="project" value="LOCAL" />
       <updated>1521225343960</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="minor changes in index sections(about and services)">
+      <created>1521412050644</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1521412050644</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103906000" />
+    <option name="totallyTimeSpent" value="105548000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1103" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="1082" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1398344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14258912" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -401,7 +383,8 @@
     <MESSAGE value="second commit-images from webp to png" />
     <MESSAGE value="fixing css and js, break points and input" />
     <MESSAGE value="minor css fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor css fix" />
+    <MESSAGE value="minor changes in index sections(about and services)" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor changes in index sections(about and services)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -420,6 +403,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="119" column="16" lean-forward="false" selection-start-line="119" selection-start-column="16" selection-end-line="119" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -443,6 +427,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="119" column="16" lean-forward="false" selection-start-line="119" selection-start-column="16" selection-end-line="119" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -475,6 +460,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="39" column="42" lean-forward="true" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -498,6 +484,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -521,6 +508,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -544,6 +532,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -567,6 +556,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="59" column="4" lean-forward="false" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -642,6 +632,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="119" column="16" lean-forward="false" selection-start-line="119" selection-start-column="16" selection-end-line="119" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -695,8 +686,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="93" column="45" lean-forward="true" selection-start-line="93" selection-start-column="45" selection-end-line="93" selection-end-column="45" />
+        <state relative-caret-position="626">
+          <caret line="301" column="14" lean-forward="true" selection-start-line="301" selection-start-column="14" selection-end-line="301" selection-end-column="14" />
           <folding />
         </state>
       </provider>
